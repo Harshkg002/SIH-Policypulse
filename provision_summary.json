@@ -1,0 +1,85 @@
+[
+    {
+        "provision_number":"Clause 4.1",
+        "comment_volume":20,
+        "total_sentiment_score":-16,
+        "negative_comments":18,
+        "positive_comments":2,
+        "neutral_comments":0,
+        "negative_percentage":90.0,
+        "positive_percentage":10.0,
+        "controversy_score":18.0,
+        "key_concerns":[
+            "surveillance",
+            "data sharing concerns",
+            "monopoly",
+            "arbitrary power"
+        ]
+    },
+    {
+        "provision_number":"Clause 8.3",
+        "comment_volume":18,
+        "total_sentiment_score":-18,
+        "negative_comments":18,
+        "positive_comments":0,
+        "neutral_comments":0,
+        "negative_percentage":100.0,
+        "positive_percentage":0.0,
+        "controversy_score":18.0,
+        "key_concerns":[
+            "restrictive",
+            "operational burden",
+            "unnecessary friction",
+            "hinders global business"
+        ]
+    },
+    {
+        "provision_number":"Section 12",
+        "comment_volume":19,
+        "total_sentiment_score":-17,
+        "negative_comments":18,
+        "positive_comments":1,
+        "neutral_comments":0,
+        "negative_percentage":94.7368421053,
+        "positive_percentage":5.2631578947,
+        "controversy_score":18.0,
+        "key_concerns":[
+            "disproportionate",
+            "undue burden",
+            "excessive fine",
+            "stifles innovation"
+        ]
+    },
+    {
+        "provision_number":"Section 21",
+        "comment_volume":21,
+        "total_sentiment_score":-15,
+        "negative_comments":18,
+        "positive_comments":3,
+        "neutral_comments":0,
+        "negative_percentage":85.7142857143,
+        "positive_percentage":14.2857142857,
+        "controversy_score":18.0,
+        "key_concerns":[
+            "cumbersome process",
+            "biased towards government",
+            "lack of transparency"
+        ]
+    },
+    {
+        "provision_number":"Preamble",
+        "comment_volume":22,
+        "total_sentiment_score":-8,
+        "negative_comments":15,
+        "positive_comments":7,
+        "neutral_comments":0,
+        "negative_percentage":68.1818181818,
+        "positive_percentage":31.8181818182,
+        "controversy_score":15.0,
+        "key_concerns":[
+            "vision is flawed",
+            "ambiguous",
+            "lacks clarity"
+        ]
+    }
+]

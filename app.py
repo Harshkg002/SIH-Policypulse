@@ -99,5 +99,13 @@ provision_summary['key_concerns'] = provision_summary['provision_number'].map(ke
 
 print("\nFinal Processed Data (Ready for Frontend):")
 print(provision_summary.to_string())
+# --- Step 6: Save Final Output to JSON ---
+output_file = "provision_summary.json"
+
+# Convert DataFrame to JSON (records = list of dicts, good for frontend)
+provision_summary.to_json(output_file, orient="records", indent=4)
+
+print(f"\nProcessed data saved to '{output_file}' successfully!")
+
 
 print("\nBackend processing complete. The data is ready for the frontend.")
