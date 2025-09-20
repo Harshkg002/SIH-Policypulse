@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+provision_summary.json
+individual_comments.json

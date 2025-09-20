@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Priority Worklist Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- wordcloud2.js -->
+  <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.1.2/src/wordcloud2.js"></script>
+  <!-- jsPDF for PDF export -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <h1>Priority Worklist Dashboard</h1>
+    <div class="controls">
+      <label for="stakeholderFilter">Stakeholder:</label>
+      <select id="stakeholderFilter">
+        <option value="All">All</option>
+        <option value="Tech Startup">Tech Startup</option>
+        <option value="Small Businesses">Small Businesses</option>
+        <option value="Citizens">Citizens</option>
+      </select>
+      <button id="exportCsvBtn">Export CSV</button>
+      <button id="exportPdfBtn">Export PDF</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Top 3 Hot Clauses -->
+    <section id="hot-clauses" class="hot-cards">
+      <!-- cards injected via JS -->
+    </section>
+
+    <!-- Dashboard main row -->
+  <section class="dashboard-main">
+    <!-- Left: Priority Worklist Table -->
+    <div class="left-panel">
+      <section class="table-section">
+        <h2>Priority Worklist Table</h2>
+        <div class="table-wrap">
+          <table id="worklistTable">
+            <thead>
+              <tr>
+                <th>Clause</th>
+                <th>Total Comments</th>
+                <th>Sentiment Breakdown</th>
+                <th>Key Concerns</th>
+                <th>Controversy Score 🔥</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <!-- Right: Sentiment & Word Cloud -->
+    <div class="right-panel">
+      <div class="panel">
+        <h3>Overall Sentiment Overview</h3>
+        <canvas id="sentimentChart" width="30" height="20"></canvas>
+      </div>
+
+      <div class="panel">
+        <h3>Global Word Cloud</h3>
+        <div id="wordcloud" class="wordcloud"></div>
+      </div>
+    </div>
+  </section>
+
+
+  </main>
+
+  <footer class="footer">
+    Built by <strong> Syntax Sorcerers.</strong>.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
