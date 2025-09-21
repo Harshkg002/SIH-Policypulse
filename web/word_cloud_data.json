@@ -1,0 +1,67 @@
+{
+  "overall": {
+    "penalty": 7,
+    "compliance": 5,
+    "privacy": 4,
+    "startup": 4,
+    "fiduciary": 4,
+    "data": 8,
+    "regulatory": 3,
+    "innovation": 3,
+    "competition": 3
+  },
+  "by_clause": {
+    "Clause 4.1": {
+      "fiduciary": 2,
+      "compliance": 1,
+      "competition": 1
+    },
+    "Section 12": {
+      "penalty": 3,
+      "startup": 1,
+      "innovation": 1
+    },
+    "Preamble": {
+      "digital": 1,
+      "economy": 1,
+      "innovation": 1
+    },
+    "Clause 8.3": {
+      "cross-border": 1,
+      "data": 1,
+      "transfer": 1
+    },
+    "Section 18": {
+      "rights": 1,
+      "correction": 1,
+      "erasure": 1
+    },
+    "Clause 15": {
+      "breach": 1,
+      "notification": 1
+    }
+  },
+  "by_stakeholder": {
+    "Corporate Law Firm": {
+      "fiduciary": 1,
+      "compliance": 1
+    },
+    "Tech Startup": {
+      "penalty": 1,
+      "startup": 1,
+      "innovation": 1
+    },
+    "Government Official": {
+      "digital": 1,
+      "economy": 1
+    },
+    "Small Business Owner": {
+      "cross-border": 1,
+      "data": 1
+    },
+    "Citizen": {
+      "rights": 1,
+      "correction": 1
+    }
+  }
+}

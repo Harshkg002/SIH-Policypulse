@@ -1,0 +1,2954 @@
+[
+  {
+    "comment_id": 1,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The revised definition of 'significant data fiduciary' is a double-edged sword. While it offers clarity, the compliance burden it imposes is immense and could stifle competition by favoring only the largest players.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The revised definition of 'significant data fiduciary' is a double-edged sword. While it offers clar... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 2,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 12",
+    "comment_text": "This is outrageous! The penalty framework in Section 12 is a death sentence for startups. One minor mistake and we could be wiped out. How can we be expected to innovate under this constant threat?",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: This is outrageous! The penalty framework in Section 12 is a death sentence for startups. One minor... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 3,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Preamble",
+    "comment_text": "A truly commendable Preamble. It eloquently sets a forward-looking vision for India's digital economy, balancing innovation with the fundamental rights of our citizens. This provides a strong foundation for the entire act.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: A truly commendable Preamble. It eloquently sets a forward-looking vision for India's digital econom... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 4,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Clause 8.3",
+    "comment_text": "I'm completely lost with Clause 8.3. The rules for cross-border data transfer are so complex that I'm terrified of accidentally breaking the law just by using my international accounting software. This is a nightmare for small businesses.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I'm completely lost with Clause 8.3. The rules for cross-border data transfer are so complex that I'... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 5,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Section 21",
+    "comment_text": "The dispute resolution mechanism in Section 21 lacks judicial oversight. While efficiency is a goal, sidelining the courts for such critical matters raises serious questions about due process and the separation of powers.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The dispute resolution mechanism in Section 21 lacks judicial oversight. While efficiency is a goal,... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 6,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 30",
+    "comment_text": "The broad exemptions for government agencies in Section 30 are deeply concerning. This creates a loophole for state surveillance that completely undermines the privacy protections promised to citizens. It's an unacceptable overreach.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The broad exemptions for government agencies in Section 30 are deeply concerning. This creates a loo... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 7,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Preamble",
+    "comment_text": "This Preamble is exactly what we needed. Its clear emphasis on creating a competitive and fair digital market gives our members the confidence to invest in India's future. It's a fantastic signal to the global community.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: This Preamble is exactly what we needed. Its clear emphasis on creating a competitive and fair digit... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 8,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 18",
+    "comment_text": "Finally! The rights granted to us under Section 18, like the right to correction and erasure, are empowering. I feel a sense of relief knowing I can have more control over my personal data.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: Finally! The rights granted to us under Section 18, like the right to correction and erasure, are em... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 9,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 25",
+    "comment_text": "The sweeping powers granted to the Data Protection Board in Clause 25, without sufficient checks and balances, are alarming. This creates a significant risk of arbitrary enforcement and could be used to silence dissent.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The sweeping powers granted to the Data Protection Board in Clause 25, without sufficient checks and... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 10,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 12",
+    "comment_text": "The ambiguity in Section 12's penalty clauses introduces an unacceptable level of risk. Investors need predictability, and this provision creates a chilling effect that will undoubtedly steer capital away from the Indian tech sector.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The ambiguity in Section 12's penalty clauses introduces an unacceptable level of risk. Investors ne... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 11,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 15",
+    "comment_text": "The breach notification requirements in Clause 15 are stringent but necessary. This forces a higher standard of cybersecurity and transparency, which will ultimately build greater trust in the digital ecosystem.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The breach notification requirements in Clause 15 are stringent but necessary. This forces a higher... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 12,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 6",
+    "comment_text": "The consent framework in Section 6 is a step in the right direction. Clear and explicit consent is fundamental, and this provision gives us a clear rulebook to follow, which we appreciate.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The consent framework in Section 6 is a step in the right direction. Clear and explicit consent is f... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 13,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Section 12",
+    "comment_text": "The penalty structure in Section 12 is a necessary deterrent. To be taken seriously on the global stage, our data protection laws must have teeth. This signals that India is committed to robust enforcement.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The penalty structure in Section 12 is a necessary deterrent. To be taken seriously on the global st... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 14,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 21",
+    "comment_text": "A dispute resolution process that requires expensive lawyers is useless for us. We need a simple, low-cost mediation service to handle complaints, not this intimidating and bureaucratic system.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: A dispute resolution process that requires expensive lawyers is useless for us. We need a simple, lo... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 15,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The criteria for a 'significant data fiduciary' should be more dynamic. A multi-factor analysis, including the sensitivity of the data processed, would be a more nuanced and effective regulatory approach than relying solely on volume.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The criteria for a 'significant data fiduciary' should be more dynamic. A multi-factor analysis, inc... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 16,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Clause 15",
+    "comment_text": "While breach notifications are important, Clause 15 needs a provision for a central, publicly accessible breach repository. Citizens deserve to know which platforms have failed to protect their data.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: While breach notifications are important, Clause 15 needs a provision for a central, publicly access... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 17,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Section 6",
+    "comment_text": "The detailed consent requirements in Section 6 are operationally complex. We advocate for a more flexible, risk-based approach where the level of consent is proportional to the sensitivity of the data.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The detailed consent requirements in Section 6 are operationally complex. We advocate for a more fle... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 18,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 30",
+    "comment_text": "I feel betrayed by the exemptions in Section 30. Why should the government be allowed to access my data without my consent when private companies can't? This is a clear double standard.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I feel betrayed by the exemptions in Section 30. Why should the government be allowed to access my d... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 19,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The question of who audits 'significant data fiduciaries' remains unanswered in Clause 4.1. Without truly independent and empowered auditors, this entire provision becomes a rubber-stamping exercise.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The question of who audits 'significant data fiduciaries' remains unanswered in Clause 4.1. Without... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 20,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble’s commitment to a stable regulatory environment is music to our ears. Predictability is the bedrock of long-term investment, and this sets a very positive tone for the market.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Preamble’s commitment to a stable regulatory environment is music to our ears. Predictability is... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 21,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 18",
+    "comment_text": "The 'right to be forgotten' under Section 18 will be a litigation minefield. The conflict between this right and the right to freedom of expression will lead to complex and costly court battles.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The 'right to be forgotten' under Section 18 will be a litigation minefield. The conflict between th... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 22,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Clause 25",
+    "comment_text": "I'm genuinely scared of the powers of the Data Protection Board in Clause 25. An unchecked regulator could easily crush a young company like ours with a single biased decision. The lack of an easy appeal process is terrifying.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I'm genuinely scared of the powers of the Data Protection Board in Clause 25. An unchecked regulator... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 23,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Clause 8.3",
+    "comment_text": "We are developing a list of 'trusted nations' for data transfer to simplify compliance with Clause 8.3. This will facilitate easier data flows with key economic partners while ensuring an adequate level of protection.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: We are developing a list of 'trusted nations' for data transfer to simplify compliance with Clause 8... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 24,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 6",
+    "comment_text": "The consent notices required by Section 6 are just more pop-ups that customers will ignore. This is a bureaucratic exercise that adds friction to my website without actually improving privacy.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The consent notices required by Section 6 are just more pop-ups that customers will ignore. This is... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 25,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Section 12",
+    "comment_text": "A comparative study of global penalty structures reveals that Section 12 is among the most punitive. While intended as a deterrent, it may inadvertently harm market entry for smaller international players.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: A comparative study of global penalty structures reveals that Section 12 is among the most punitive.... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 26,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble should explicitly ground the law in the fundamental right to privacy. Framing it primarily through an economic lens weakens its moral and constitutional authority. This is a major disappointment.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble should explicitly ground the law in the fundamental right to privacy. Framing it primar... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 27,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Section 21",
+    "comment_text": "We are delighted with the provision for an 'expert panel' in Section 21. Including industry representatives with technical expertise will ensure that decisions are practical and informed, which is a big win for everyone.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: We are delighted with the provision for an 'expert panel' in Section 21. Including industry represen... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 28,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Clause 8.3",
+    "comment_text": "Will Clause 8.3 stop me from using my favorite international educational apps? The thought that I could be cut off from global tools is frustrating. The law should empower us, not isolate us.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Will Clause 8.3 stop me from using my favorite international educational apps? The thought that I co... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 29,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Section 30",
+    "comment_text": "Section 30 is the elephant in the room. The national security exemption is so broad that it renders many of the bill's protections meaningless. This is the story that needs to be told.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Section 30 is the elephant in the room. The national security exemption is so broad that it renders... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 30,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The lack of a clear revenue or user threshold for 'significant data fiduciaries' in Clause 4.1 creates massive uncertainty. We cannot effectively assess risk in potential investments without clear, objective criteria.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The lack of a clear revenue or user threshold for 'significant data fiduciaries' in Clause 4.1 creat... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 31,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 25",
+    "comment_text": "The Data Protection Board's power to conduct 'search and seizure' under Clause 25 is a significant concern. This power, typically reserved for criminal investigations, is excessive for a civil regulatory body.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Data Protection Board's power to conduct 'search and seizure' under Clause 25 is a significant c... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 32,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 18",
+    "comment_text": "The 'right to data portability' in Section 18 is a game-changer! It empowers users and will foster competition, allowing innovative startups like ours to compete with established giants on a more level playing field.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The 'right to data portability' in Section 18 is a game-changer! It empowers users and will foster c... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 33,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The designation of 'significant data fiduciaries' allows us to focus regulatory resources where they are needed most. This risk-based approach is efficient and ensures a high degree of accountability for major data handlers.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The designation of 'significant data fiduciaries' allows us to focus regulatory resources where they... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 34,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 12",
+    "comment_text": "I'm so anxious about the penalties in Section 12 that it keeps me up at night. As a small business owner, I wear so many hats, and the fear of one small slip-up costing me my entire livelihood is overwhelming.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I'm so anxious about the penalties in Section 12 that it keeps me up at night. As a small business o... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 35,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The restrictions on cross-border data flows in Clause 8.3 could severely hamper international academic collaboration. Research in fields like AI and medicine depends on the seamless exchange of large datasets.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The restrictions on cross-border data flows in Clause 8.3 could severely hamper international academ... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 36,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 21",
+    "comment_text": "The composition of the dispute resolution board must include civil society members. Without diverse representation, it will lack public trust and be seen as a body that only serves corporate and government interests. It’s simply not fair otherwise.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The composition of the dispute resolution board must include civil society members. Without diverse... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 37,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Clause 15",
+    "comment_text": "A 72-hour breach notification window as suggested for Clause 15 is extremely aggressive. We propose a more realistic timeline to allow for proper investigation before causing undue public panic.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: A 72-hour breach notification window as suggested for Clause 15 is extremely aggressive. We propose... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 38,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 21",
+    "comment_text": "Where is the common person in Section 21? The process seems designed for lawyers. We need a simple, accessible ombudsman to whom we can take our complaints without fear and complexity.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Where is the common person in Section 21? The process seems designed for lawyers. We need a simple,... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 39,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Section 12",
+    "comment_text": "The lack of judicial review before the imposition of penalties under Section 12 is a serious due process concern. This gives the board the power of judge, jury, and executioner. We must investigate the implications.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The lack of judicial review before the imposition of penalties under Section 12 is a serious due pro... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 40,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Clause 8.3",
+    "comment_text": "Clause 8.3, as written, will inevitably lead to increased compliance costs, which directly impacts company valuations. This makes Indian startups less attractive compared to their global counterparts.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Clause 8.3, as written, will inevitably lead to increased compliance costs, which directly impacts c... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 41,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble’s dual objectives of protecting personal data and promoting the digital economy are laudable. However, these goals are often in direct conflict, which will create a complex and contentious legal landscape.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Preamble’s dual objectives of protecting personal data and promoting the digital economy are lau... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 42,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Clause 8.3",
+    "comment_text": "This is a disaster for the entire Indian startup ecosystem! Our reliance on global cloud infrastructure from AWS and Google is fundamental. The ambiguity in Clause 8.3 puts our very existence at risk.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: This is a disaster for the entire Indian startup ecosystem! Our reliance on global cloud infrastruct... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 43,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Section 18",
+    "comment_text": "Granting citizens strong rights under Section 18 is a cornerstone of this legislation. An empowered citizenry is the hallmark of a mature digital democracy, and we are proud to champion this.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: Granting citizens strong rights under Section 18 is a cornerstone of this legislation. An empowered... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 44,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Clause 4.1",
+    "comment_text": "What on earth is a 'data fiduciary'? This law is written in such dense legalese that it's completely inaccessible. How can I comply with something I can't even understand? It's incredibly frustrating.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: What on earth is a 'data fiduciary'? This law is written in such dense legalese that it's completely... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 45,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble's framing of this as an economic bill, rather than a rights-based one, is a profound philosophical error. This foundational choice will negatively color the interpretation of every subsequent clause.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble's framing of this as an economic bill, rather than a rights-based one, is a profound ph... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 46,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The potential for Clause 8.3 to isolate Indian activists from global support networks is chilling. This isn't just about data; it's a tool that could be used to suppress dissent and control information flow.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The potential for Clause 8.3 to isolate Indian activists from global support networks is chilling. T... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 47,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Section 30",
+    "comment_text": "The exemption for small businesses in Section 30 is a very welcome relief. It shows that the government has listened to our concerns and is willing to support the SME sector.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The exemption for small businesses in Section 30 is a very welcome relief. It shows that the governm... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 48,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Clause 4.1",
+    "comment_text": "I'm hopeful that being a 'significant data fiduciary' means companies will finally be forced to take my privacy seriously. The current system of hiding behind unreadable 'terms and conditions' is a complete joke.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I'm hopeful that being a 'significant data fiduciary' means companies will finally be forced to take... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 49,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 15",
+    "comment_text": "The specifics of what constitutes a 'reportable breach' under Clause 15 are too vague. This ambiguity could allow companies to downplay serious incidents and avoid public accountability.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The specifics of what constitutes a 'reportable breach' under Clause 15 are too vague. This ambiguit... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 50,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 21",
+    "comment_text": "A lengthy and unpredictable dispute resolution process is a deal-breaker for investors. We need certainty and efficiency. This, as proposed in Section 21, is the opposite of that.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: A lengthy and unpredictable dispute resolution process is a deal-breaker for investors. We need cert... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 51,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 6",
+    "comment_text": "The explicit requirements for affirmative, granular consent in Section 6 are a huge step forward for user rights. This will force companies to be more transparent and ethical in their data collection practices.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The explicit requirements for affirmative, granular consent in Section 6 are a huge step forward for... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 52,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 12",
+    "comment_text": "The threat of these massive penalties will force us to spend more on lawyers than on developers. This is a complete perversion of what a startup ecosystem should be. Innovation is dead on arrival.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The threat of these massive penalties will force us to spend more on lawyers than on developers. Thi... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 53,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Section 21",
+    "comment_text": "The dispute resolution framework is designed to be efficient and expert-led. The goal is to avoid the years-long delays endemic to the traditional court system, providing swift justice for all.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The dispute resolution framework is designed to be efficient and expert-led. The goal is to avoid th... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 54,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Clause 15",
+    "comment_text": "If my small e-commerce site gets hacked, do I really have the resources to notify every single customer under Clause 15? This is an impossible standard for a business of my size.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: If my small e-commerce site gets hacked, do I really have the resources to notify every single custo... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 55,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Section 18",
+    "comment_text": "The inclusion of the right to data portability in Section 18 is a significant win for consumer rights and market competition. It will reduce switching costs and prevent vendor lock-in.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The inclusion of the right to data portability in Section 18 is a significant win for consumer right... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 56,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Clause 25",
+    "comment_text": "The power of the Board to set its own rules under Clause 25 is deeply problematic. This lack of separation of powers means the regulator can essentially write its own limitless authority. This is a recipe for abuse.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The power of the Board to set its own rules under Clause 25 is deeply problematic. This lack of sepa... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 57,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Preamble",
+    "comment_text": "We are thrilled with the Preamble's commitment to a 'fair and competitive' digital market. This legislation will finally level the playing field between domestic and international technology companies.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: We are thrilled with the Preamble's commitment to a 'fair and competitive' digital market. This legi... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 58,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 12",
+    "comment_text": "The penalties are a good start, but what about me? The law should include a clear right to compensation for individuals who have been harmed by a data breach. Fining the company doesn't fix my problem.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The penalties are a good start, but what about me? The law should include a clear right to compensat... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 59,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The definition of 'significant data fiduciary' is the linchpin of this entire bill. Our investigation will focus on which corporations are lobbying to either be included or excluded from this category.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The definition of 'significant data fiduciary' is the linchpin of this entire bill. Our investigatio... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 60,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 30",
+    "comment_text": "The exemption for research and statistical purposes in Section 30 is crucial. Without it, innovation in data-driven fields like AI and machine learning would be impossible. This is a sensible provision.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The exemption for research and statistical purposes in Section 30 is crucial. Without it, innovation... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 61,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The data localization undertones in Clause 8.3 are unmistakable and frankly, protectionist. This will increase the cost of doing business in India and may invite retaliatory measures from other nations.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The data localization undertones in Clause 8.3 are unmistakable and frankly, protectionist. This wil... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 62,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble is a great mission statement, but we operate on code, not on vision. We need a clear, unambiguous roadmap for implementation to plan our product development and avoid legal pitfalls.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble is a great mission statement, but we operate on code, not on vision. We need a clear, u... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 63,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Section 6",
+    "comment_text": "The consent framework in Section 6 is benchmarked against the best global standards, like GDPR. This is a clear statement that India is a mature digital nation that respects the rights of its citizens.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The consent framework in Section 6 is benchmarked against the best global standards, like GDPR. This... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 64,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 21",
+    "comment_text": "Why is the dispute process so centralized? I can't afford to travel to Delhi to argue a case. We need local, accessible forums where a small business owner can be heard without going bankrupt.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Why is the dispute process so centralized? I can't afford to travel to Delhi to argue a case. We nee... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 65,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Clause 25",
+    "comment_text": "The technical expertise of the Data Protection Board, as mandated by Clause 25, will be its greatest challenge. Recruiting and retaining talent with the necessary skills to regulate Big Tech will be a monumental task.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The technical expertise of the Data Protection Board, as mandated by Clause 25, will be its greatest... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 66,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 12",
+    "comment_text": "It is imperative that funds collected from penalties under Section 12 be directed towards a 'Digital Literacy and Consumer Compensation Fund'. The fines must directly benefit the citizens who were harmed.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: It is imperative that funds collected from penalties under Section 12 be directed towards a 'Digital... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 67,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The restrictions on cross-border data transfer will severely disrupt the global supply chains and integrated IT systems our members rely on. We are advocating for a much more flexible, risk-based approach.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The restrictions on cross-border data transfer will severely disrupt the global supply chains and in... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 68,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 18",
+    "comment_text": "I am so happy to see the 'right to correction' in Section 18. I've been fighting with a credit bureau for years to fix an error on my report. This gives me the legal power to finally get it done.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: I am so happy to see the 'right to correction' in Section 18. I've been fighting with a credit burea... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 69,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Section 21",
+    "comment_text": "The confidentiality requirements of the dispute resolution process under Section 21 are a major red flag for transparency. The public has a right to know how these powerful corporations are being held accountable.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The confidentiality requirements of the dispute resolution process under Section 21 are a major red... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 70,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 6",
+    "comment_text": "The consent requirements in Section 6, while well-intentioned, will lead to 'consent fatigue'. Users will click 'yes' to everything, rendering the entire exercise meaningless while increasing friction for businesses.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The consent requirements in Section 6, while well-intentioned, will lead to 'consent fatigue'. Users... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 71,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 21",
+    "comment_text": "The composition of the appellate tribunal under Section 21 must include members with judicial experience. A purely administrative body adjudicating on fundamental rights is a constitutional anomaly.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The composition of the appellate tribunal under Section 21 must include members with judicial experi... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 72,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Clause 15",
+    "comment_text": "The requirement to detail the 'remedial action taken' in a breach notification under Clause 15 is excellent. It forces companies to be accountable and to actually fix the problem, not just report it.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The requirement to detail the 'remedial action taken' in a breach notification under Clause 15 is ex... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 73,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The framework for cross-border data transfers is based on principles of adequacy and consent. This is a flexible and modern approach in line with global best practices, ensuring data is protected wherever it goes.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The framework for cross-border data transfers is based on principles of adequacy and consent. This i... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 74,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble sounds nice, but my reality is that this bill means more compliance, more paperwork, and more costs. It feels like another burden designed to crush small entrepreneurs like me.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble sounds nice, but my reality is that this bill means more compliance, more paperwork, an... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 75,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Section 30",
+    "comment_text": "The exemption for manual processing by small entities in Section 30 is a pragmatic concession. However, it raises questions about the line between manual and automated processing in the modern age.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The exemption for manual processing by small entities in Section 30 is a pragmatic concession. Howev... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 76,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 6",
+    "comment_text": "The consent framework in Section 6 must be strengthened to include specific, heightened protections for the data of children. The current draft is dangerously inadequate on this critical issue.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The consent framework in Section 6 must be strengthened to include specific, heightened protections... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 77,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Clause 25",
+    "comment_text": "A predictable and expert-led regulatory body, as envisioned in Clause 25, is essential for maintaining business confidence. We look forward to a collaborative relationship with the new Board.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: A predictable and expert-led regulatory body, as envisioned in Clause 25, is essential for maintaini... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 78,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Clause 8.3",
+    "comment_text": "I am deeply suspicious of Clause 8.3. This feels like a tool for the government to control what information and services we can access. This is not about privacy; it's about censorship.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I am deeply suspicious of Clause 8.3. This feels like a tool for the government to control what info... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 79,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble is a political masterstroke, framing the bill in terms of national pride and economic progress. Our analysis will cut through the rhetoric to examine the tangible impacts on citizen rights.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Preamble is a political masterstroke, framing the bill in terms of national pride and economic p... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 80,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Clause 15",
+    "comment_text": "The potential brand damage from a public data breach notification, as required by Clause 15, is a significant financial risk. This increases the importance of cybersecurity in our due diligence process.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The potential brand damage from a public data breach notification, as required by Clause 15, is a si... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 81,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 30",
+    "comment_text": "The national security exemption in Section 30 is legally problematic. Its broad and undefined nature gives the state a 'blank check' to bypass the entire act, which will undoubtedly be challenged in court.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The national security exemption in Section 30 is legally problematic. Its broad and undefined nature... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 82,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 18",
+    "comment_text": "The right to data portability under Section 18 is a huge win for us! It breaks down the data silos of large incumbents and allows us to build innovative services on a user's own data, with their consent.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The right to data portability under Section 18 is a huge win for us! It breaks down the data silos o... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 83,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble is the soul of this legislation. It reflects our government's unwavering commitment to building a trillion-dollar digital economy while ensuring the privacy of every Indian is protected.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Preamble is the soul of this legislation. It reflects our government's unwavering commitment to... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 84,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 12",
+    "comment_text": "A system of warnings and smaller fines for first-time, unintentional violations is desperately needed in Section 12. The current 'one-size-fits-all' penalty approach is unjust and will destroy small businesses.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: A system of warnings and smaller fines for first-time, unintentional violations is desperately neede... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 85,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Clause 8.3",
+    "comment_text": "Clause 8.3's approach could lead to 'data islands,' effectively isolating India's data ecosystem. This would be a catastrophic blow to scientific research and our integration into the global knowledge economy.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Clause 8.3's approach could lead to 'data islands,' effectively isolating India's data ecosystem. Th... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 86,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 21",
+    "comment_text": "The dispute resolution process must be made accessible to people with disabilities and those who are not digitally literate. An online-only portal, as is likely, will exclude the most vulnerable in our society.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The dispute resolution process must be made accessible to people with disabilities and those who are... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 87,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The compliance obligations for 'significant data fiduciaries' are extensive but manageable. We are proactively working with our members to develop industry-wide codes of practice to streamline this process.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The compliance obligations for 'significant data fiduciaries' are extensive but manageable. We are p... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 88,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 21",
+    "comment_text": "I don't have a computer or a fancy phone. How am I supposed to file a complaint and fight for my rights under Section 21? This law has been written for the rich and has forgotten people like me.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I don't have a computer or a fancy phone. How am I supposed to file a complaint and fight for my rig... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 89,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Section 12",
+    "comment_text": "The power to impose such massive penalties without immediate judicial review is a recipe for corruption and abuse. This gives the regulatory body unprecedented and dangerous leverage over corporations.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The power to impose such massive penalties without immediate judicial review is a recipe for corrupt... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 90,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The ambiguity in Clause 8.3 is a nightmare for due diligence. We are advising all our portfolio companies to begin mapping their data flows immediately, as we anticipate a highly restrictive enforcement regime.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The ambiguity in Clause 8.3 is a nightmare for due diligence. We are advising all our portfolio comp... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 91,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 12",
+    "comment_text": "The principle of proportionality seems to be entirely absent from the penalty structure in Section 12. The fines should be commensurate with the actual harm caused, not just a flat percentage of global turnover.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The principle of proportionality seems to be entirely absent from the penalty structure in Section 1... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 92,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Clause 15",
+    "comment_text": "A 72-hour notification window is impossible for a small team like ours. It takes us longer than that just to understand the scope of a sophisticated attack. This is an unrealistic and punishing deadline.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: A 72-hour notification window is impossible for a small team like ours. It takes us longer than that... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 93,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Clause 25",
+    "comment_text": "The Data Protection Board is being established as an independent and expert body. Its powers under Clause 25 are necessary to effectively regulate a complex and rapidly evolving technology sector.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Data Protection Board is being established as an independent and expert body. Its powers under C... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 94,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 30",
+    "comment_text": "I am so relieved to see the exemption for small businesses in Section 30. It shows that someone has been listening to our pleas. This will allow me to focus on my business instead of drowning in paperwork.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: I am so relieved to see the exemption for small businesses in Section 30. It shows that someone has... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 95,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble's framing of data as an economic resource, rather than an extension of human dignity and personality, is a fundamental philosophical flaw. This instrumentalist view will lead to interpretations that favor commerce over citizens.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble's framing of data as an economic resource, rather than an extension of human dignity an... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 96,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 18",
+    "comment_text": "The 'right against profiling' is a critical omission in Section 18. Without it, companies can still create digital caricatures of us to manipulate and discriminate. This is a massive gap in the law.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The 'right against profiling' is a critical omission in Section 18. Without it, companies can still... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 97,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Preamble",
+    "comment_text": "The vision laid out in the Preamble for a competitive digital economy is laudable. However, this must be urgently supported by massive investment in digital infrastructure and nationwide literacy programs.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The vision laid out in the Preamble for a competitive digital economy is laudable. However, this mus... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 98,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Clause 4.1",
+    "comment_text": "It's about time these huge companies were held to a higher standard. I fully support the concept of a 'significant data fiduciary' in Clause 4.1. They have had too much power over our lives for too long.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: It's about time these huge companies were held to a higher standard. I fully support the concept of... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 99,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The government's power to approve or deny data transfer agreements under Clause 8.3 is the real story here. This provision gives the executive immense, discretionary power over the entire tech sector.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The government's power to approve or deny data transfer agreements under Clause 8.3 is the real stor... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 100,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 21",
+    "comment_text": "The lack of a direct appeal mechanism to the regular court system from the dispute resolution body is a serious concern. This creates a parallel legal system with limited oversight and accountability.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The lack of a direct appeal mechanism to the regular court system from the dispute resolution body i... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 101,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The ongoing compliance requirements for 'significant data fiduciaries', such as data audits and impact assessments, will create a significant and sustained new revenue stream for the legal and consulting professions.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The ongoing compliance requirements for 'significant data fiduciaries', such as data audits and impa... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 102,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 30",
+    "comment_text": "The exemptions in Section 30 are a confusing mess. The line between 'research' and 'commercial product development' is incredibly blurry in the AI space. We need much clearer guidance to avoid breaking the law.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The exemptions in Section 30 are a confusing mess. The line between 'research' and 'commercial produ... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 103,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Section 21",
+    "comment_text": "The expert-led dispute resolution process is designed to be less adversarial and more collaborative than the court system. The primary goal is to find practical solutions that remediate harm for citizens.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The expert-led dispute resolution process is designed to be less adversarial and more collaborative... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 104,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 12",
+    "comment_text": "These penalties are not just unfair; they are counterproductive. The sheer terror of these fines will scare small businesses away from adopting the very digital tools that could help us grow and compete.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: These penalties are not just unfair; they are counterproductive. The sheer terror of these fines wil... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 105,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Clause 15",
+    "comment_text": "The requirement to notify users of a data breach under Clause 15 should also include an obligation to inform them of the specific types of data that were compromised. Vague notifications are not helpful.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The requirement to notify users of a data breach under Clause 15 should also include an obligation t... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 106,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 12",
+    "comment_text": "All penalty funds collected under Section 12 should be placed in a transparent, independently-managed trust. These funds should be used exclusively for digital literacy programs and to compensate victims of data abuse.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: All penalty funds collected under Section 12 should be placed in a transparent, independently-manage... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 107,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Section 6",
+    "comment_text": "We believe the consent framework in Section 6 can be streamlined by allowing for industry-wide 'codes of conduct'. Once certified, members could benefit from a presumption of compliance, reducing administrative overhead.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: We believe the consent framework in Section 6 can be streamlined by allowing for industry-wide 'code... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 108,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble mentions the 'digital economy,' but what about the digital divide? This law must not become another tool that benefits the rich and tech-savvy while leaving the poor and marginalized even further behind.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble mentions the 'digital economy,' but what about the digital divide? This law must not be... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 109,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 25",
+    "comment_text": "The composition of the Data Protection Board will be the subject of intense scrutiny. We will be investigating the backgrounds and affiliations of all appointed members to ensure their independence and impartiality.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The composition of the Data Protection Board will be the subject of intense scrutiny. We will be inv... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 110,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The compliance costs associated with 'significant data fiduciary' status will be a major line item in any company's budget. This will inevitably favor larger, cash-rich incumbents over innovative challengers.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The compliance costs associated with 'significant data fiduciary' status will be a major line item i... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 111,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 8.3",
+    "comment_text": "Navigating the complex patchwork of international data transfer adequacy agreements under Clause 8.3 will be a significant legal challenge for our multinational clients. This is a growth area for our practice.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: Navigating the complex patchwork of international data transfer adequacy agreements under Clause 8.3... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 112,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 12",
+    "comment_text": "The penalties in Section 12 are like using a sledgehammer to crack a nut. A more intelligent, tiered approach with warnings and escalating fines for repeat offenders would be far more effective and just.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The penalties in Section 12 are like using a sledgehammer to crack a nut. A more intelligent, tiered... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 113,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble reflects India's ambition to be a leading player in the global digital society. This legislation provides the legal framework to turn that ambition into a reality, ensuring growth is both rapid and responsible.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Preamble reflects India's ambition to be a leading player in the global digital society. This le... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 114,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Clause 8.3",
+    "comment_text": "I use a whole suite of international cloud tools to run my business. The restrictions in Clause 8.3 make me deeply anxious that these essential services could become illegal or prohibitively expensive overnight.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I use a whole suite of international cloud tools to run my business. The restrictions in Clause 8.3... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 115,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The designation of 'significant data fiduciaries' creates a de facto two-tiered regulatory system. It will be critical to study the long-term effects of this on market competition and the potential for regulatory capture.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The designation of 'significant data fiduciaries' creates a de facto two-tiered regulatory system. I... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 116,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Preamble",
+    "comment_text": "The focus on economic growth in the Preamble is tragically misplaced. The primary, overriding purpose of a data protection law must be the protection of human dignity and the fundamental right to privacy. Everything else is secondary.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The focus on economic growth in the Preamble is tragically misplaced. The primary, overriding purpos... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 117,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Clause 15",
+    "comment_text": "The data breach notification rules in Clause 15 will be particularly challenging for the BPO and IT services industry. A breach in a client's system could trigger complex, multi-party notification obligations.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The data breach notification rules in Clause 15 will be particularly challenging for the BPO and IT... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 118,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 12",
+    "comment_text": "I am so relieved to see that companies will finally face massive fines for losing our data. It's about time they started feeling the financial pain for their carelessness with our personal information.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I am so relieved to see that companies will finally face massive fines for losing our data. It's abo... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 119,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Section 6",
+    "comment_text": "The concept of 'consent managers' introduced in Section 6 is fascinating. Our reporting will explore whether this creates a new layer of trusted intermediaries or just another set of powerful data-hoarding companies.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The concept of 'consent managers' introduced in Section 6 is fascinating. Our reporting will explore... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 120,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 12",
+    "comment_text": "The penalty regime in Section 12 is a deal-killer. The risk of a single fine wiping out an entire investment is simply too high. This will have a devastating effect on early-stage tech funding in India.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The penalty regime in Section 12 is a deal-killer. The risk of a single fine wiping out an entire in... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 121,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 21",
+    "comment_text": "The introduction of an alternative dispute resolution mechanism in Section 21 is a welcome and pragmatic development. It has the potential to be significantly faster and more cost-effective than traditional litigation.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The introduction of an alternative dispute resolution mechanism in Section 21 is a welcome and pragm... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 122,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Clause 25",
+    "comment_text": "The Board's power to issue binding 'directions' under Clause 25 is worryingly broad. An ill-conceived direction could force us to re-architect our entire product on short notice, which would be catastrophic.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Board's power to issue binding 'directions' under Clause 25 is worryingly broad. An ill-conceive... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 123,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Clause 8.3",
+    "comment_text": "The provisions for cross-border data transfers are designed to be flexible. By allowing for multiple frameworks like adequacy decisions and standard contractual clauses, we are ensuring data flows can continue securely.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The provisions for cross-border data transfers are designed to be flexible. By allowing for multiple... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 124,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 21",
+    "comment_text": "This dispute resolution process is a joke for people like me. I'm a small business owner, not a lawyer. I need a simple phone number to call for help, not a complex legal process that I can't navigate.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: This dispute resolution process is a joke for people like me. I'm a small business owner, not a lawy... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 125,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Section 18",
+    "comment_text": "The 'right to be forgotten' in Section 18 is a positive step, but its implementation will be fraught with difficulty. The conflict with archival purposes and the public's right to information needs clearer statutory guidance.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The 'right to be forgotten' in Section 18 is a positive step, but its implementation will be fraught... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 126,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The concentration of so much citizen data with a few 'significant data fiduciaries' creates an unprecedented threat of mass surveillance. We need iron-clad, legally-mandated technical safeguards, like end-to-end encryption, to mitigate this risk.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The concentration of so much citizen data with a few 'significant data fiduciaries' creates an unpre... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 127,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Section 21",
+    "comment_text": "A streamlined and expert-led dispute resolution process is essential for improving the ease of doing business in India. We fully support this initiative and believe it will provide much-needed certainty.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: A streamlined and expert-led dispute resolution process is essential for improving the ease of doing... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 128,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Clause 8.3",
+    "comment_text": "I am outraged that Clause 8.3 could be used to block my access to international news websites or social media platforms. The government should not have the power to build a great firewall around India.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I am outraged that Clause 8.3 could be used to block my access to international news websites or soc... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 129,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The concept of a 'significant data fiduciary' is the bill's most potent political tool. The power to designate a company with this label gives the government immense leverage over the entire corporate sector.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The concept of a 'significant data fiduciary' is the bill's most potent political tool. The power to... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 130,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 30",
+    "comment_text": "The exemption for mergers and acquisitions in Section 30 is a critical, business-friendly provision. It ensures that standard due diligence processes are not derailed by data transfer restrictions.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The exemption for mergers and acquisitions in Section 30 is a critical, business-friendly provision.... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 131,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble's dual focus on rights and economics is a reflection of the core tension in modern data governance. This law will be a fascinating and closely-watched experiment in regulatory balancing.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Preamble's dual focus on rights and economics is a reflection of the core tension in modern data... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 132,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 6",
+    "comment_text": "The consent framework in Section 6 is world-class. It provides the rails for a new ecosystem of 'consent managers' which will empower users and spur a new wave of privacy-centric innovation. I am genuinely excited.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The consent framework in Section 6 is world-class. It provides the rails for a new ecosystem of 'con... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 133,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Preamble",
+    "comment_text": "Guided by the principles in its Preamble, this legislation is a historic step towards building a safe, prosperous, and self-reliant Digital India. It protects our citizens while empowering our innovators.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: Guided by the principles in its Preamble, this legislation is a historic step towards building a saf... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 134,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Clause 25",
+    "comment_text": "The powers of this new Board in Clause 25 seem excessive. It feels like we are creating another bureaucracy that will harass small businesses with inspections and notices. We need support, not another inspector.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The powers of this new Board in Clause 25 seem excessive. It feels like we are creating another bure... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 135,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble correctly identifies the importance of the digital economy. However, the bill's protectionist undertones, particularly regarding cross-border data flows, could be detrimental to India's long-term integration with the global economy.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble correctly identifies the importance of the digital economy. However, the bill's protect... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 136,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 30",
+    "comment_text": "The national security exemptions in Section 30 are a betrayal of the bill's promise. A data protection law that does not bind the state is not a protection law at all; it is a tool of control.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The national security exemptions in Section 30 are a betrayal of the bill's promise. A data protecti... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 137,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Preamble",
+    "comment_text": "While the Preamble's vision is welcome, the bill's punitive measures and restrictive data transfer clauses could undermine this very vision. We must ensure the law fosters growth, not fear.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: While the Preamble's vision is welcome, the bill's punitive measures and restrictive data transfer c... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 138,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 18",
+    "comment_text": "I am so happy that the right to control my own data is finally being enshrined in law under Section 18. This is a fundamental right for the digital age, and it's wonderful to see India taking a lead.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: I am so happy that the right to control my own data is finally being enshrined in law under Section... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 139,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble is the movie trailer - exciting and full of promises. But the audience—the citizens of India—will be watching closely to see if the film lives up to the hype. The final verdict is not yet written.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The Preamble is the movie trailer - exciting and full of promises. But the audience—the citizens of... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 140,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Clause 25",
+    "comment_text": "To have a fair game, you need a strong and impartial umpire. The new Data Protection Board under Clause 25 must be that umpire for our digital economy, ensuring a level playing field for all players, big and small.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: To have a fair game, you need a strong and impartial umpire. The new Data Protection Board under Cla... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 141,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 12",
+    "comment_text": "The penalties in Section 12 are like a fast bouncer aimed at the head. It's designed to intimidate, not to encourage fair play. The rules need to be tough, but they also need to be just and proportional.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The penalties in Section 12 are like a fast bouncer aimed at the head. It's designed to intimidate,... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 142,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 18",
+    "comment_text": "The 'right to correction' is fantastic! For too long, we've been powerless against platforms holding inaccurate data about us. This provision is a huge win for individual dignity and fairness.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The 'right to correction' is fantastic! For too long, we've been powerless against platforms holding... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 143,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 6",
+    "comment_text": "Children's consent cannot be treated the same as adults'. Section 6 needs a separate, much stricter regime for processing the data of minors. Protecting the next generation must be our absolute highest priority.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Children's consent cannot be treated the same as adults'. Section 6 needs a separate, much stricter... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 144,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Clause 15",
+    "comment_text": "A clear process for data breach notifications is good for the entire industry. It builds trust and encourages companies to invest properly in cybersecurity. This will make the whole ecosystem stronger.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: A clear process for data breach notifications is good for the entire industry. It builds trust and e... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 145,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 30",
+    "comment_text": "Why are political parties exempt from this law under Section 30? They hold so much sensitive data about us. This seems like a loophole designed by politicians to protect themselves, and it is totally unacceptable.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Why are political parties exempt from this law under Section 30? They hold so much sensitive data ab... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 146,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 25",
+    "comment_text": "The real power of the Board will be in its ability to interpret vague terms like 'public interest'. Our focus will be on how this discretion is wielded and which interests it ultimately serves.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The real power of the Board will be in its ability to interpret vague terms like 'public interest'.... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 147,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Section 18",
+    "comment_text": "The right to erasure under Section 18 presents a significant challenge for maintaining immutable legal and financial records. The law needs to provide clearer exceptions for data retained under statutory obligations.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The right to erasure under Section 18 presents a significant challenge for maintaining immutable leg... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 148,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Section 18",
+    "comment_text": "The government fully supports the rights of citizens to manage their digital footprint. Section 18 is a testament to our commitment to individual liberty in the digital age. It's a progressive step.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The government fully supports the rights of citizens to manage their digital footprint. Section 18 i... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 149,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Section 6",
+    "comment_text": "The model of consent in Section 6 is too rigid. It doesn't account for evolving services. We need a provision for 'dynamic consent' that allows user preferences to be updated without constant, annoying pop-ups.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The model of consent in Section 6 is too rigid. It doesn't account for evolving services. We need a... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 150,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Clause 15",
+    "comment_text": "It's terrifying to think my data could be breached and I wouldn't even know. The mandatory notification in Clause 15 makes me feel much safer. Knowledge is power, and this gives us the knowledge to protect ourselves.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: It's terrifying to think my data could be breached and I wouldn't even know. The mandatory notificat... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 151,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Section 30",
+    "comment_text": "The broad exemption for 'domestic purposes' in Section 30 is poorly defined. In an era of smart homes and IoT devices, the line between personal and public data is blurred. This clause needs urgent clarification.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The broad exemption for 'domestic purposes' in Section 30 is poorly defined. In an era of smart home... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 152,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Preamble",
+    "comment_text": "The Preamble’s focus on economic opportunity is the right one. A clear data protection law reduces regulatory risk, making the entire Indian market a more attractive destination for global capital. This is good for everyone.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The Preamble’s focus on economic opportunity is the right one. A clear data protection law reduces r... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 153,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Section 12",
+    "comment_text": "The severe penalties in Section 12 will disproportionately harm manufacturing and non-tech sectors that are new to digitalization. A more phased and supportive approach is needed to bring them into the fold without punishing them.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The severe penalties in Section 12 will disproportionately harm manufacturing and non-tech sectors t... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 154,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 18",
+    "comment_text": "We advocate for an explicit 'right to opt-out of algorithmic decision-making' to be included in Section 18. Citizens should not be subject to life-altering decisions made by opaque, unaudited algorithms.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: We advocate for an explicit 'right to opt-out of algorithmic decision-making' to be included in Sect... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "startup impact",
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 155,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Section 30",
+    "comment_text": "The most critical story is the exemption for law enforcement in Section 30. We will be filing RTIs to understand the procedural safeguards that will be in place to prevent the misuse of this broad power.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The most critical story is the exemption for law enforcement in Section 30. We will be filing RTIs t... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 156,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 25",
+    "comment_text": "The power of the Data Protection Board to issue codes of practice under Clause 25 is a positive development. This allows for industry-specific guidance that is more practical than a one-size-fits-all law.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The power of the Data Protection Board to issue codes of practice under Clause 25 is a positive deve... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 157,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 21",
+    "comment_text": "The dispute resolution process is still too confusing. I read the summary, and I have no idea how I would even start a complaint. It needs to be simple, like calling a customer service number.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The dispute resolution process is still too confusing. I read the summary, and I have no idea how I... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 158,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Preamble",
+    "comment_text": "This Preamble lays the foundation for a new era of trust and transparency in India's digital journey. It is a promise to our citizens that their rights will be protected as we build a modern, prosperous nation.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: This Preamble lays the foundation for a new era of trust and transparency in India's digital journey... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "implementation cost"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 159,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 6",
+    "comment_text": "I can't afford a lawyer to write a perfect consent form for Section 6. The government should provide simple, pre-approved templates for small businesses to use. Without that, this is just a trap.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I can't afford a lawyer to write a perfect consent form for Section 6. The government should provide... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 160,
+    "stakeholder_type": "Academic/Researcher",
+    "provision_number": "Section 21",
+    "comment_text": "The dispute resolution body's independence is paramount. Its funding and appointment mechanisms, detailed in Section 21, must be shielded from political interference to ensure its credibility and effectiveness.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The dispute resolution body's independence is paramount. Its funding and appointment mechanisms, det... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "implementation cost",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "business impact",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 161,
+    "stakeholder_type": "Venture Capitalist",
+    "provision_number": "Section 12",
+    "comment_text": "The lack of a 'safe harbor' for companies that adhere to approved certification mechanisms is a major flaw in Section 12. This disincentivizes proactive compliance and focuses only on punishment.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The lack of a 'safe harbor' for companies that adhere to approved certification mechanisms is a majo... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 162,
+    "stakeholder_type": "Journalist",
+    "provision_number": "Clause 15",
+    "comment_text": "Our investigation will focus on the 'significant harm' threshold for breach notifications in Clause 15. How this is defined will determine whether companies report most breaches or only a tiny fraction.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: Our investigation will focus on the 'significant harm' threshold for breach notifications in Clause... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 163,
+    "stakeholder_type": "Industry Association",
+    "provision_number": "Clause 8.3",
+    "comment_text": "A clear framework for 'adequacy' status, as mentioned in Clause 8.3, is urgently needed. This will allow for seamless data flows with key trading partners like the EU and the US, which is vital for our IT sector.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: A clear framework for 'adequacy' status, as mentioned in Clause 8.3, is urgently needed. This will a... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 164,
+    "stakeholder_type": "Non-Profit Organization",
+    "provision_number": "Section 30",
+    "comment_text": "The exemption for journalistic purposes in Section 30 is vital for press freedom. However, it needs a clear definition to prevent it from being misused by malicious actors masquerading as media.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The exemption for journalistic purposes in Section 30 is vital for press freedom. However, it needs... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 165,
+    "stakeholder_type": "Tech Startup",
+    "provision_number": "Clause 4.1",
+    "comment_text": "The financial and human resource cost of complying with 'significant data fiduciary' obligations under Clause 4.1 is immense. A phased approach, with obligations scaling with company size, would be more sustainable.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The financial and human resource cost of complying with 'significant data fiduciary' obligations und... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 7,
+    "ai_main_concerns": [
+      "surveillance concerns",
+      "privacy invasion",
+      "compliance burden"
+    ],
+    "ai_themes": [
+      "data protection",
+      "government oversight"
+    ]
+  },
+  {
+    "comment_id": 166,
+    "stakeholder_type": "Corporate Law Firm",
+    "provision_number": "Clause 15",
+    "comment_text": "The interplay between breach notifications under Clause 15 and our client's cybersecurity insurance policies will be complex. We are advising clients to review their coverage immediately to ensure it aligns with these new obligations.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: The interplay between breach notifications under Clause 15 and our client's cybersecurity insurance... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 2,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 167,
+    "stakeholder_type": "Government Official",
+    "provision_number": "Clause 25",
+    "comment_text": "The establishment of a specialized Data Protection Board under Clause 25 is a landmark reform. It will build domestic expertise and capacity in data governance, which is essential for our digital future.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: The establishment of a specialized Data Protection Board under Clause 25 is a landmark reform. It wi... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  },
+  {
+    "comment_id": 168,
+    "stakeholder_type": "Small Business Owner",
+    "provision_number": "Section 12",
+    "comment_text": "I am an honest businessman. The penalties in Section 12 treat everyone like a criminal. This atmosphere of fear is not good for business or for the country. It is deeply demoralizing.",
+    "sentiment": "NEGATIVE",
+    "ai_summary": "Key point: I am an honest businessman. The penalties in Section 12 treat everyone like a criminal. This atmosph... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 9,
+    "ai_main_concerns": [
+      "penalty framework",
+      "compliance burden",
+      "startup impact"
+    ],
+    "ai_themes": [
+      "data protection",
+      "regulatory enforcement"
+    ]
+  },
+  {
+    "comment_id": 169,
+    "stakeholder_type": "Citizen",
+    "provision_number": "Section 6",
+    "comment_text": "I'm glad that Section 6 will require consent to be in clear and plain language. I'm tired of trying to read legal documents that are designed to be confusing. This is a big win for ordinary people.",
+    "sentiment": "POSITIVE",
+    "ai_summary": "Key point: I'm glad that Section 6 will require consent to be in clear and plain language. I'm tired of trying... [AI: Complex policy concern requiring detailed review]",
+    "ai_controversy_score": 5,
+    "ai_main_concerns": [
+      "privacy invasion",
+      "compliance burden",
+      "regulatory complexity"
+    ],
+    "ai_themes": [
+      "data protection",
+      "business impact"
+    ]
+  }
+]

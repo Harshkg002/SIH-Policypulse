@@ -1,0 +1,319 @@
+{
+  "provision_analysis": [
+    {
+      "provision_number": "Section 12",
+      "comment_volume": 21,
+      "negative_comments": 18,
+      "positive_comments": 3,
+      "neutral_comments": 0,
+      "avg_controversy_score": 9.0,
+      "negative_percentage": 85.71428571428571,
+      "positive_percentage": 14.285714285714285,
+      "controversy_score": 67.58571428571429,
+      "top_concerns": [
+        "penalty framework",
+        "compliance burden",
+        "startup impact"
+      ],
+      "main_themes": [
+        "data protection",
+        "regulatory enforcement"
+      ]
+    },
+    {
+      "provision_number": "Section 30",
+      "comment_volume": 15,
+      "negative_comments": 10,
+      "positive_comments": 5,
+      "neutral_comments": 0,
+      "avg_controversy_score": 9.0,
+      "negative_percentage": 66.66666666666666,
+      "positive_percentage": 33.33333333333333,
+      "controversy_score": 58.166666666666664,
+      "top_concerns": [
+        "surveillance concerns",
+        "privacy invasion"
+      ],
+      "main_themes": [
+        "data protection",
+        "business impact"
+      ]
+    },
+    {
+      "provision_number": "Clause 4.1",
+      "comment_volume": 16,
+      "negative_comments": 11,
+      "positive_comments": 5,
+      "neutral_comments": 0,
+      "avg_controversy_score": 7.0,
+      "negative_percentage": 68.75,
+      "positive_percentage": 31.25,
+      "controversy_score": 53.3,
+      "top_concerns": [
+        "surveillance concerns",
+        "privacy invasion",
+        "compliance burden"
+      ],
+      "main_themes": [
+        "data protection",
+        "government oversight"
+      ]
+    },
+    {
+      "provision_number": "Clause 25",
+      "comment_volume": 14,
+      "negative_comments": 7,
+      "positive_comments": 7,
+      "neutral_comments": 0,
+      "avg_controversy_score": 9.0,
+      "negative_percentage": 50.0,
+      "positive_percentage": 50.0,
+      "controversy_score": 51.2,
+      "top_concerns": [
+        "regulatory complexity"
+      ],
+      "main_themes": [
+        "data protection",
+        "business impact"
+      ]
+    },
+    {
+      "provision_number": "Section 21",
+      "comment_volume": 19,
+      "negative_comments": 13,
+      "positive_comments": 6,
+      "neutral_comments": 0,
+      "avg_controversy_score": 5.0,
+      "negative_percentage": 68.42105263157895,
+      "positive_percentage": 31.57894736842105,
+      "controversy_score": 48.06842105263158,
+      "top_concerns": [
+        "implementation cost",
+        "regulatory complexity"
+      ],
+      "main_themes": [
+        "business impact",
+        "government oversight"
+      ]
+    },
+    {
+      "provision_number": "Preamble",
+      "comment_volume": 23,
+      "negative_comments": 10,
+      "positive_comments": 13,
+      "neutral_comments": 0,
+      "avg_controversy_score": 7.0,
+      "negative_percentage": 43.47826086956522,
+      "positive_percentage": 56.52173913043478,
+      "controversy_score": 45.291304347826085,
+      "top_concerns": [
+        "privacy invasion",
+        "compliance burden",
+        "implementation cost"
+      ],
+      "main_themes": [
+        "data protection",
+        "government oversight"
+      ]
+    },
+    {
+      "provision_number": "Clause 8.3",
+      "comment_volume": 19,
+      "negative_comments": 11,
+      "positive_comments": 8,
+      "neutral_comments": 0,
+      "avg_controversy_score": 5.0,
+      "negative_percentage": 57.89473684210527,
+      "positive_percentage": 42.10526315789473,
+      "controversy_score": 43.85789473684211,
+      "top_concerns": [
+        "privacy invasion",
+        "compliance burden",
+        "startup impact"
+      ],
+      "main_themes": [
+        "data protection",
+        "business impact"
+      ]
+    },
+    {
+      "provision_number": "Section 6",
+      "comment_volume": 14,
+      "negative_comments": 7,
+      "positive_comments": 7,
+      "neutral_comments": 0,
+      "avg_controversy_score": 5.0,
+      "negative_percentage": 50.0,
+      "positive_percentage": 50.0,
+      "controversy_score": 39.2,
+      "top_concerns": [
+        "privacy invasion",
+        "compliance burden",
+        "regulatory complexity"
+      ],
+      "main_themes": [
+        "data protection",
+        "business impact"
+      ]
+    },
+    {
+      "provision_number": "Clause 15",
+      "comment_volume": 14,
+      "negative_comments": 9,
+      "positive_comments": 5,
+      "neutral_comments": 0,
+      "avg_controversy_score": 2.0,
+      "negative_percentage": 64.28571428571429,
+      "positive_percentage": 35.714285714285715,
+      "controversy_score": 35.91428571428572,
+      "top_concerns": [
+        "regulatory complexity"
+      ],
+      "main_themes": [
+        "data protection",
+        "business impact"
+      ]
+    },
+    {
+      "provision_number": "Section 18",
+      "comment_volume": 14,
+      "negative_comments": 5,
+      "positive_comments": 9,
+      "neutral_comments": 0,
+      "avg_controversy_score": 2.0,
+      "negative_percentage": 35.714285714285715,
+      "positive_percentage": 64.28571428571429,
+      "controversy_score": 24.485714285714288,
+      "top_concerns": [
+        "startup impact",
+        "implementation cost",
+        "regulatory complexity"
+      ],
+      "main_themes": [
+        "data protection",
+        "government oversight"
+      ]
+    }
+  ],
+  "stakeholder_insights": {
+    "Corporate Law Firm": {
+      "primary_concerns": [
+        "legal clarity",
+        "compliance requirements"
+      ],
+      "sentiment_tone": "analytical",
+      "urgency_level": "medium"
+    },
+    "Tech Startup": {
+      "primary_concerns": [
+        "regulatory burden",
+        "compliance cost"
+      ],
+      "sentiment_tone": "very negative",
+      "urgency_level": "high"
+    },
+    "Government Official": {
+      "primary_concerns": [
+        "enforcement",
+        "public interest"
+      ],
+      "sentiment_tone": "positive",
+      "urgency_level": "low"
+    },
+    "Small Business Owner": {
+      "primary_concerns": [
+        "implementation complexity",
+        "cost burden"
+      ],
+      "sentiment_tone": "worried",
+      "urgency_level": "high"
+    },
+    "Academic/Researcher": {
+      "primary_concerns": [
+        "policy effectiveness",
+        "implementation"
+      ],
+      "sentiment_tone": "analytical",
+      "urgency_level": "medium"
+    },
+    "Non-Profit Organization": {
+      "primary_concerns": [
+        "privacy rights",
+        "government overreach"
+      ],
+      "sentiment_tone": "critical",
+      "urgency_level": "high"
+    },
+    "Industry Association": {
+      "primary_concerns": [
+        "general policy concern"
+      ],
+      "sentiment_tone": "positive",
+      "urgency_level": "low"
+    },
+    "Citizen": {
+      "primary_concerns": [
+        "privacy rights",
+        "data protection"
+      ],
+      "sentiment_tone": "very negative",
+      "urgency_level": "high"
+    },
+    "Journalist": {
+      "primary_concerns": [
+        "press freedom",
+        "transparency"
+      ],
+      "sentiment_tone": "skeptical",
+      "urgency_level": "high"
+    },
+    "Venture Capitalist": {
+      "primary_concerns": [
+        "general policy concern"
+      ],
+      "sentiment_tone": "mixed",
+      "urgency_level": "medium"
+    }
+  },
+  "amendment_suggestions": {
+    "Section 12": {
+      "suggested_amendments": [
+        "Reduce penalty amounts for first-time offenders",
+        "Introduce graduated penalty structure",
+        "Provide compliance grace period for small entities"
+      ],
+      "rationale": "Reduces burden on smaller businesses"
+    },
+    "Section 30": {
+      "suggested_amendments": [
+        "Strengthen privacy safeguards",
+        "Add judicial oversight requirements"
+      ],
+      "rationale": "Addresses privacy and surveillance concerns"
+    },
+    "Clause 25": {
+      "suggested_amendments": [
+        "Clarify implementation requirements",
+        "Add stakeholder consultation mechanism"
+      ],
+      "rationale": "Address key concerns raised by stakeholders"
+    },
+    "Clause 4.1": {
+      "suggested_amendments": [
+        "Clarify implementation requirements",
+        "Add stakeholder consultation mechanism"
+      ],
+      "rationale": "Address key concerns raised by stakeholders"
+    },
+    "Preamble": {
+      "suggested_amendments": [
+        "Clarify implementation requirements",
+        "Add stakeholder consultation mechanism"
+      ],
+      "rationale": "Address key concerns raised by stakeholders"
+    }
+  },
+  "generated_at": "2025-09-20T23:39:51.675096",
+  "total_comments": 169,
+  "processing_time_seconds": 16.89
+}
