@@ -68,11 +68,13 @@ function renderTable(filteredClauses){
     worklistTableBody.appendChild(tr);
   });
 
-  document.querySelectorAll(".btn-view").forEach(btn=>{
-    btn.addEventListener("click", (e)=>{
+  // inside renderHotClauses and renderTable, change button listener:
+  document.querySelectorAll(".btn-view").forEach(btn => {
+    btn.addEventListener("click", e => {
       const provision = e.currentTarget.dataset.provision;
-      openSmartInbox(provision);
-      document.getElementById("smart-inbox").scrollIntoView({behavior:"smooth"});
+      // store the provision in localStorage for the details page
+      localStorage.setItem("selectedProvision", provision);
+      window.location.href = `clause-details.html?provision=${encodeURIComponent(provision)}`;
     });
   });
 }
